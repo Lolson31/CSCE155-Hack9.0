@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+ 
 #include "gameUtils.h"
 
 void freeBoard(Move **board) {
